@@ -9,6 +9,12 @@ Set the following environment variables:
 
   <dt>URI</dt>
   <dd>the location of the LDAP server</dd>
+
+  <dt>BINDDN</dt>
+  <dd>the bind user DN</dd>
+
+  <dt>BINDPW</dt>
+  <dd>the bind user password</dd>
 </dl>
 
 You may wish to use persistent home directories by setting the volume at /home.
